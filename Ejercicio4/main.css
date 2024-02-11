@@ -1,0 +1,14 @@
+.menu{
+    margin: 20px;
+    background-color: green;
+    width: 130px;
+}
+
+.menu a{
+   color: white;
+   font-weight: bolder;
+}
+
+.menu a:hover {
+background-color: rgb(7, 77, 7);
+}
